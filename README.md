@@ -16,6 +16,5 @@ a [Sails](http://sailsjs.org) application
 
 ## Running SalesManagementServer
 
-    ``` 
+
     node app
-    ```
