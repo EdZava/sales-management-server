@@ -21,6 +21,6 @@ a [Sails](http://sailsjs.org) application
 
 2. `cd sales-management-server`
 
-3. `npm install`
+3. `npm install` (maybe sudo is required for Linux)
 
 4. `node app`
