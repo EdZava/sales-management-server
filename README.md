@@ -17,4 +17,10 @@ a [Sails](http://sailsjs.org) application
 ## Running SalesManagementServer
 
 
-    node app
+1. git clone https://github.com/jlmonteagudo/sales-management-server.git
+
+2. cd sales-management-server
+
+3. npm install
+
+4. node app
