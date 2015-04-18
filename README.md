@@ -23,4 +23,6 @@ a [Sails](http://sailsjs.org) application
 
 3. `npm install` (maybe sudo is required for Linux)
 
-4. `node app`
+4. `npm install sails`
+
+5. `node app`
