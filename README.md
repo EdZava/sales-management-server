@@ -17,10 +17,10 @@ a [Sails](http://sailsjs.org) application
 ## Running SalesManagementServer
 
 
-1. git clone https://github.com/jlmonteagudo/sales-management-server.git
+1. `git clone https://github.com/jlmonteagudo/sales-management-server.git`
 
-2. cd sales-management-server
+2. `cd sales-management-server`
 
-3. npm install
+3. `npm install`
 
-4. node app
+4. `node app`
