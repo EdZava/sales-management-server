@@ -1,6 +1,6 @@
 # SalesManagementServer
 
-a [Sails](http://sailsjs.org) application
+API REST server for managing a sales process.
 
 ## Prerequisites
 
